@@ -1,0 +1,43 @@
+var zPc='DefaultRemoteCallBuilder.java:',CPc='org.jboss.errai.bus.client.api.builder.';_=Ivb.prototype;_.Og=function Vvb(a){var b;xec[b=++yec]=Vvb;(zec[b]=IDc+qgc,this.b).sg(yk((zec[b]=JDc+Rhc,SIb(),(zec[b]=IDc+qgc,BIb))),a);yec=b-1;return this};_.Tg=function _vb(a){var b;xec[b=++yec]=_vb;if(CC((zec[b]=IDc+_jc,this.a))){throw new (zec[b]=IDc+nfc,jd)('An ErrorCallback is already registered')}this.a=(zec[b]=IDc+pfc,a);yec=b-1;return this};_=xwb.prototype;_.Og=function Dwb(a){var b;xec[b=++yec]=Dwb;(zec[b]=ODc+Ufc,this.b).Og(a);yec=b-1;return this};_.Tg=function Iwb(a){var b;xec[b=++yec]=Iwb;(zec[b]=ODc+dic,this.b).Tg(a);yec=b-1;return this};function Rxb(){var a,b;xec[a=++yec]=Rxb;zec[a]=_Dc+lic,Qxb();b=new (zec[a]=_Dc+mic,xyb)(Zvb());yec=a-1;return b}
+function uyb(){var a;xec[a=++yec]=uyb;uyb=(zec[a]=zPc+Omc,Pdc);new (zec[a]=zPc+Kfc,cEb);yec=a-1}
+function vyb(a){var b;xec[b=++yec]=vyb;(zec[b]=zPc+jgc,a).c=BH;yec=b-1}
+function wyb(a,b){var c,d,e,f,g;xec[f=++yec]=wyb;(zec[f]=zPc+Chc,a).a.ih(b+':RPC');e=new (zec[f]=zPc+egc,Cyb)(a);c=new (zec[f]=zPc+Rgc,Ryb)(a,e);d=new (zec[f]=zPc+bic,Xyb)(a,c);g=new (zec[f]=zPc+dic,azb)(a,d);yec=f-1;return g}
+function xyb(a){var b;xec[b=++yec]=xyb;zec[b]=zPc+Hnc,uyb();N.call(this);vyb(this);this.a=(zec[b]=zPc+_gc,a);yec=b-1}
+function zyb(){var a,b;xec[a=++yec]=zyb;zec[a]=zPc+Ckc,uyb();b=(zec[a]=zPc+$ec,++tyb)>10000?(tyb=0):tyb;yec=a-1;return b}
+function syb(){}
+_=xyb.prototype=syb.prototype=new J;_.gC=function yyb(){var a,b;xec[a=++yec]=yyb;b=(zec[a]=zPc+Omc,FJ);yec=a-1;return b};_.a=null;_.b=null;var tyb=0;function Byb(){}
+function Cyb(a){var b;xec[b=++yec]=Cyb;this.a=(zec[b]=zPc+egc,a);N.call(this);Byb();yec=b-1}
+function Ayb(){}
+_=Cyb.prototype=Ayb.prototype=new J;_.gC=function Dyb(){var a,b;xec[a=++yec]=Dyb;b=(zec[a]=zPc+egc,BJ);yec=a-1;return b};_.dh=function Eyb(a){var b,c,d,e;xec[e=++yec]=Eyb;zec[e]=zPc+ggc,c=null;zec[e]=zPc+hpc,d=(zec[e]=zPc+ufc,this.a).a.$g()+Uxc+this.a.a.Wg()+NDc+(c=Gcb(zyb()));zec[e]=zPc+Fhc,b=(zec[e]=zPc+pgc,this.a).a.$g()+Uxc+this.a.a.Wg()+':Errors:'+(DC(c)?zyb():kcb(c));if(CC((zec[e]=zPc+lgc,this.a).b)){zec[e]=zPc+Ghc,(zec[e]=zPc+Ghc,a).Jg(d,new (zec[e]=zPc+mgc,Hyb)(this,a,d,b));(zec[e]=zPc+Igc,this.a).a.fh((zec[e]=JDc+Rfc,SIb(),(zec[e]=zPc+Igc,IIb)),d)}if(CC((zec[e]=zPc+Jgc,this.a).a.Xg())){zec[e]=zPc+Kgc,(zec[e]=zPc+Kgc,a).Jg(b,new (zec[e]=zPc+xkc,Myb)(this,a,b,d));(zec[e]=zPc+agc,this.a).a.fh((zec[e]=JDc+kgc,SIb(),(zec[e]=zPc+agc,EIb)),b)}(zec[e]=zPc+Ngc,this.a).a.dh(a);yec=e-1};_.a=null;function Gyb(){}
+function Hyb(a,b,c,d){var e;xec[e=++yec]=Hyb;this.a=(zec[e]=zPc+mgc,a);this.b=b;this.d=c;this.c=d;N.call(this);Gyb();yec=e-1}
+function Fyb(){}
+_=Hyb.prototype=Fyb.prototype=new J;_.jh=function Iyb(a){var b;xec[b=++yec]=Iyb;(zec[b]=zPc+wfc,this.b).Kg(this.d);CC((zec[b]=zPc+Xfc,this.a).a.a.Xg())&&(zec[b]=zPc+zkc,this.b).Kg(this.c);(zec[b]=zPc+Yfc,this.a).a.b.lh(a.Ug(this.a.a.c,'MethodReply'));yec=b-1};_.gC=function Jyb(){var a,b;xec[a=++yec]=Jyb;b=(zec[a]=zPc+mgc,zJ);yec=a-1;return b};_.cM={251:1};_.a=null;_.b=null;_.c=null;_.d=null;function Lyb(){}
+function Myb(a,b,c,d){var e;xec[e=++yec]=Myb;this.a=(zec[e]=zPc+xkc,a);this.b=b;this.c=c;this.d=d;N.call(this);Lyb();yec=e-1}
+function Kyb(){}
+_=Myb.prototype=Kyb.prototype=new J;_.jh=function Nyb(a){var b;xec[b=++yec]=Nyb;(zec[b]=zPc+Nec,this.b).Kg(this.c);CC((zec[b]=zPc+Oec,this.a).a.b)&&(zec[b]=zPc+$fc,this.b).Kg(this.d);(zec[b]=zPc+Pec,this.a).a.a.Xg().Mg(this.a.a.a,tC(a.Vg(KH,(zec[b]=JDc+vfc,SIb(),(zec[b]=zPc+Pec,NIb))),206));yec=b-1};_.gC=function Oyb(){var a,b;xec[a=++yec]=Oyb;b=(zec[a]=zPc+xkc,AJ);yec=a-1;return b};_.cM={251:1};_.a=null;_.b=null;_.c=null;_.d=null;function Qyb(){}
+function Ryb(a,b){var c;xec[c=++yec]=Ryb;this.a=(zec[c]=zPc+Rgc,a);this.b=b;N.call(this);Qyb();yec=c-1}
+function Pyb(){}
+_=Ryb.prototype=Pyb.prototype=new J;_.wh=function Syb(){var a,b;xec[a=++yec]=Syb;(zec[a]=zPc+Vgc,this.a).a.Tg((zec[a]=QDc+Gnc,bxb(),(zec[a]=zPc+Vgc,axb)));b=(zec[a]=zPc+Pmc,this.b);yec=a-1;return b};_.xh=function Tyb(a){var b,c;xec[b=++yec]=Tyb;(zec[b]=zPc+cgc,this.a).a.Tg(a);c=(zec[b]=zPc+Vlc,this.b);yec=b-1;return c};_.gC=function Uyb(){var a,b;xec[a=++yec]=Uyb;b=(zec[a]=zPc+Rgc,CJ);yec=a-1;return b};_.a=null;_.b=null;function Wyb(){}
+function Xyb(a,b){var c;xec[c=++yec]=Xyb;this.a=(zec[c]=zPc+bic,a);this.b=b;N.call(this);Wyb();yec=c-1}
+function Vyb(){}
+_=Xyb.prototype=Vyb.prototype=new J;_.gC=function Yyb(){var a,b;xec[a=++yec]=Yyb;b=(zec[a]=zPc+bic,DJ);yec=a-1;return b};_.yh=function Zyb(a,b){var c,d;xec[c=++yec]=Zyb;(zec[c]=zPc+Ygc,this.a).c=a;(zec[c]=zPc+Zgc,this.a).b=b;d=(zec[c]=zPc+sgc,this.b);yec=c-1;return d};_.a=null;_.b=null;function _yb(){}
+function azb(a,b){var c;xec[c=++yec]=azb;this.a=(zec[c]=zPc+dic,a);this.b=b;N.call(this);_yb();yec=c-1}
+function $yb(){}
+_=azb.prototype=$yb.prototype=new J;_.zh=function bzb(a,b,c){var d,e,f,g,i,j,k;xec[j=++yec]=bzb;(zec[j]=zPc+khc,this.a).a.Og(a);if(FC((zec[j]=zPc+Bgc,b),null)){i=new (zec[j]=zPc+jic,A3)(b.length);for(e=(zec[j]=zPc+kic,b),f=0,g=e.length;(zec[j]=zPc+kic,f)<g;zec[j]=zPc+kic,++f){d=e[f];(zec[j]=zPc+Lhc,i).He(Iab(d.eg()))}(zec[j]=zPc+nic,this.a).a.eh(YHc,i)}FC((zec[j]=zPc+pic,c),null)&&this.a.a.eh('MethodParms',c);k=(zec[j]=zPc+Mhc,this.b);yec=j-1;return k};_.gC=function czb(){var a,b;xec[a=++yec]=czb;b=(zec[a]=zPc+dic,EJ);yec=a-1;return b};_.a=null;_.b=null;_=$Ab.prototype;_.Zb=function dBb(){var a,b,c;xec[c=++yec]=dBb;if((zec[c]=jEc+esc,this.a).g){yec=c-1;return}b=new (zec[c]=jEc+APc,fFb);(zec[c]=jEc+cLc,b).Lh(this.a);kHb((zec[c]=jEc+'1313',DK));a=new (zec[c]=jEc+Asc,gBb)(this);(zec[c]=jEc+dLc,a).Wb(10);yec=c-1};function fBb(){}
+function gBb(a){var b;xec[b=++yec]=gBb;zec[b]=jEc+Asc,Xb();this.a=a;_b.call(this);fBb();yec=b-1}
+function eBb(){}
+_=gBb.prototype=eBb.prototype=new Vb;_.gC=function hBb(){var a,b;xec[a=++yec]=hBb;b=(zec[a]=jEc+Asc,JJ);yec=a-1;return b};_.Vb=function iBb(){var a;xec[a=++yec]=iBb;gAb((zec[a]=jEc+xvc,this.a).a);yec=a-1};_.cM={105:1};_.a=null;function dEb(a,b){var c;xec[c=++yec]=dEb;zec[c]=hHc+Sfc,_Db();wIb((zec[c]=hHc+vlc,a));wIb((zec[c]=hHc+joc,b));(zec[c]=hHc+ngc,$Db).sg(a,b);yec=c-1}
+function eFb(){}
+function fFb(){var a;xec[a=++yec]=fFb;(zec[a]=BPc+tNc,N).call(this);eFb();yec=a-1}
+function dFb(){}
+_=fFb.prototype=dFb.prototype=new J;_.gC=function gFb(){var a,b;xec[a=++yec]=gFb;b=(zec[a]=BPc+tNc,CK);yec=a-1;return b};_.Lh=function hFb(a){var b;xec[b=++yec]=hFb;dEb((zec[b]=BPc+Ufc,kP),new kFb(this,a));dEb((zec[b]=BPc+Yfc,lP),new HFb(this,a));yec=b-1};function jFb(){}
+function kFb(a,b){var c;xec[c=++yec]=kFb;this.a=(zec[c]=BPc+Ufc,a);this.b=b;N.call(this);jFb();yec=c-1}
+function iFb(){}
+_=kFb.prototype=iFb.prototype=new J;_.gC=function lFb(){var a,b;xec[a=++yec]=lFb;b=(zec[a]=BPc+Ufc,AK);yec=a-1;return b};_.Hh=function mFb(){var a,b;xec[a=++yec]=mFb;b=new (zec[a]=BPc+phc,pFb)(this.a,this.b);yec=a-1;return b};_.cM={268:1};_.a=null;_.b=null;function oFb(){}
+function pFb(a,b){var c;xec[c=++yec]=pFb;this,(zec[c]=BPc+gtc,a);this.d=b;N.call(this);oFb();yec=c-1}
+_=pFb.prototype=nFb.prototype;_.gC=function qFb(){var a,b;xec[a=++yec]=qFb;b=(zec[a]=BPc+gtc,yK);yec=a-1;return b};_.Ih=function tFb(a){var b;xec[b=++yec]=tFb;this.b=(zec[b]=BPc+xfc,a);yec=b-1};_.Jh=function uFb(a){var b;xec[b=++yec]=uFb;this.c=(zec[b]=BPc+Ifc,a);yec=b-1};function wFb(){}
+function xFb(a,b){var c;xec[c=++yec]=xFb;this,(zec[c]=BPc+Sfc,a);this.d=b;N.call(this);wFb();yec=c-1}
+_=xFb.prototype=vFb.prototype;_.gC=function AFb(){var a,b;xec[a=++yec]=AFb;b=(zec[a]=BPc+Sfc,zK);yec=a-1;return b};_.Ih=function BFb(a){var b;xec[b=++yec]=BFb;this.b=(zec[b]=BPc+xlc,a);yec=b-1};_.Jh=function CFb(a){var b;xec[b=++yec]=CFb;this.c=(zec[b]=BPc+bhc,a);yec=b-1};function GFb(){}
+function HFb(a,b){var c;xec[c=++yec]=HFb;this.a=(zec[c]=BPc+Yfc,a);this.b=b;N.call(this);GFb();yec=c-1}
+function FFb(){}
+_=HFb.prototype=FFb.prototype=new J;_.gC=function IFb(){var a,b;xec[a=++yec]=IFb;b=(zec[a]=BPc+Yfc,BK);yec=a-1;return b};_.Hh=function JFb(){var a,b;xec[a=++yec]=JFb;b=new (zec[a]=BPc+Hgc,xFb)(this.a,this.b);yec=a-1;return b};_.cM={268:1};_.a=null;_.b=null;var FJ=Oab(CPc,'DefaultRemoteCallBuilder','syb',BH),BJ=Oab(CPc,'DefaultRemoteCallBuilder$1','Ayb',BH),zJ=Oab(CPc,'DefaultRemoteCallBuilder$1$1','Fyb',BH),AJ=Oab(CPc,'DefaultRemoteCallBuilder$1$2','Kyb',BH),CJ=Oab(CPc,'DefaultRemoteCallBuilder$2','Pyb',BH),DJ=Oab(CPc,'DefaultRemoteCallBuilder$3','Vyb',BH),EJ=Oab(CPc,'DefaultRemoteCallBuilder$4','$yb',BH),JJ=Oab(cPc,'ClientMessageBusImpl$11$1','eBb',BF),CK=Oab(cPc,'RpcProxyLoaderImpl','dFb',BH),AK=Oab(cPc,'RpcProxyLoaderImpl$1','iFb',BH),yK=Oab(cPc,'RpcProxyLoaderImpl$1BookingMonitorServiceImpl','nFb',BH),zK=Oab(cPc,'RpcProxyLoaderImpl$1BotServiceImpl','vFb',BH),BK=Oab(cPc,'RpcProxyLoaderImpl$2','FFb',BH);wec(Oe)(1);
