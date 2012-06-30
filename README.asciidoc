@@ -1,0 +1,10 @@
+Primary purpose of SmartWebber is:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Quickly Help you to set up you personal Web Site.
+
+* Cloud-enable, SmartWebber will run on free Cloud platform OpenShift.
+
+* Mobile-enable, you can get SmartWebber feed through you mobile
+
+* Fully JEE 6 support
