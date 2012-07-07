@@ -1,0 +1,35 @@
+Purpose of the Getting Start:
+-----------------------------
+* How to fork source code?
+* How to Build source code?
+* How to install JBoss?
+* How to deploy SmartWebber to JBoss?
+
+How to fork source code?
+------------------------
+. install git client https://help.github.com/articles/set-up-git
+. execute the following to get code
+----
+git clone https://github.com/kylinsoong/SmartWebber
+----
+
+
+How to Build source code?
+-------------------------
+. install maven, configure MAVEN_HOME, add MAVEN_HOME/bin to path
+. execute:
+----
+mvn clean install
+----
+
+How to install JBoss?
+---------------------
+* install JBoss as 7 (http://www.jboss.org/jbossas)
+* basic configure for start JBoss as 7 (https://docs.jboss.org/author/display/AS71/Getting+Started+Guide#GettingStartedGuide-Installation)
+
+
+How to deploy SmartWebber to JBoss?
+-----------------------------------
+* console
+* cli
+* manual
